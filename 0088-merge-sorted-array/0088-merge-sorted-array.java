@@ -1,6 +1,5 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        ArrayList<Integer> arr = new ArrayList<>();
 
         int k =0 ;
         while(k < n){
